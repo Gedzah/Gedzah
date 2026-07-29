@@ -47,18 +47,13 @@ I am a motivated and adaptable Software and Systems Integration Engineer with a 
 
 Check out my personal portfolio website built with **Django** and **Bootstrap 5**, showcasing my professional experience, projects, and services! It features dynamic routing for service details, portfolio case studies, and a fully functional contact form.
 
-[Live Demo](https://gedzahakpene.onrender.com)
+[Live Demo](https://kofitse.pythonanywhere.com)
 
 ![Portfolio Screenshot](portfolio-screenshot.png)
 
 ---
 
-### 💻 Projects
 
-- **Portfolio Website** - Professional portfolio built with Django and Bootstrap 5.
-- [Add your projects here...]
-
----
 
 ### 🤝 Let's Connect
 
@@ -67,8 +62,8 @@ I'm passionate about technology and constantly learning new things. I'm open to 
 Feel free to reach out via email or connect with me on other platforms:
 
 - **Email**: [gedzahakpene@gmail.com](mailto:[EMAIL_ADDRESS])
-- [GitHub](https://github.com/GedzahAkpene)
-- [LinkedIn](https://www.linkedin.com/in/gedzah-akpene/)
+- [GitHub](https://github.com/Gedzah)
+- [LinkedIn](https://www.linkedin.com/in/gedzah-akpene-kofitse/)
 
 ---
 
